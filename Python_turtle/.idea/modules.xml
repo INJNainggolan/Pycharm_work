@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_turtle.iml" filepath="$PROJECT_DIR$/.idea/Python_turtle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_use_Number/.idea/Python_use_Number.iml" filepath="$PROJECT_DIR$/../Python_use_Number/.idea/Python_use_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../equilateral_triangle/.idea/equilateral_triangle.iml" filepath="$PROJECT_DIR$/../equilateral_triangle/.idea/equilateral_triangle.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonSpider-master/.idea/PythonSpider-master.iml" filepath="$PROJECT_DIR$/../PythonSpider-master/.idea/PythonSpider-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_C.iml" filepath="$PROJECT_DIR$/.idea/Python_C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_algorithm/.idea/Python_algorithm.iml" filepath="$PROJECT_DIR$/../Python_algorithm/.idea/Python_algorithm.iml" />
+    </modules>
+  </component>
+</project>
